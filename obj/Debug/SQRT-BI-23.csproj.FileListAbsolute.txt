@@ -1,0 +1,13 @@
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\bin\Debug\SQRT-BI-23.exe.config
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\bin\Debug\SQRT-BI-23.exe
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\bin\Debug\SQRT-BI-23.pdb
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT-BI-23.csproj.AssemblyReference.cache
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT-BI-23.csproj.SuggestedBindingRedirects.cache
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT_BI_23.form1.resources
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT_BI_23.Form2.resources
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT_BI_23.Form3.resources
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT_BI_23.Properties.Resources.resources
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT-BI-23.csproj.GenerateResource.cache
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT-BI-23.csproj.CoreCompileInputs.cache
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT-BI-23.exe
+C:\Users\168708\OneDrive\Рабочий стол\C#\SQRT-BI-23-master\obj\Debug\SQRT-BI-23.pdb
